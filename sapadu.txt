@@ -4,4 +4,6 @@ dosa
 pongal
 sambar
 
-
+rice
+poriyal
+carrot
